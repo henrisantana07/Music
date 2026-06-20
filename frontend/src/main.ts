@@ -1,4 +1,3 @@
-import './style.css'
 import './index.css'
 
 const app = document.querySelector<HTMLDivElement>('#app')!
