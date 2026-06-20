@@ -1,2 +1,17 @@
 node_modules/
 dist/
+.env
+.env.local
+.env.*.local
+.next/
+out/
+build/
+*.log
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.turbo/
+coverage/
